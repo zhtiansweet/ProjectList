@@ -16,8 +16,5 @@ _Course: Introduction to Computer Graphics, Northwestern University, Evanston, I
 ####[Data Structures Implementation](https://github.com/zhtiansweet/DataStructure_EECS214) (November 2014)
 _Course: Data Structures & Data Management, Northwestern University, Evanston, IL_
 
-####[Tic Tac Toe Game](https://github.com/zhtiansweet/TicTacToe) (June 2013)
-_Course: Smart Card System, Beijing University of Posts and Telecommunications, Beijing, China_
-
 ####[Path Finding Smart Car](https://github.com/zhtiansweet/SmartCar) (September 2012)
 _Beijing University of Posts and Telecommunications, Beijing, China_

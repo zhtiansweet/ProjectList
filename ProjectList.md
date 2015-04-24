@@ -1,5 +1,5 @@
 #Tian Zhang
-[**Resume**](https://github.com/zhtiansweet/zhtiansweet.github.io/blob/master/Resume_E.pdf)  
+[**Resume**](https://github.com/zhtiansweet/zhtiansweet.github.io/blob/master/Resume-TianZhang-Eng.pdf)  
 Email: tianzhang2014@u.northwestern.edu  
 Tel: +1-718-909-7686  
 

@@ -1,11 +1,16 @@
 #Tian Zhang
 [**Resume**](https://github.com/zhtiansweet/zhtiansweet.github.io/blob/master/Resume-TianZhang-Eng.pdf)  
 Email: tianzhang2014@u.northwestern.edu  
-Tel: +1-718-909-7686  
 
 ##PROJECTS
 ####[iOS Virtual File System Upgrade](https://github.com/zhtiansweet/virtual_filesystem-ios) (April 2015 - present)
 _Northwestern University, Evanston, IL_
+
+####[Decision Tree](https://github.com/zhtiansweet/decisionTreeC4.5) (May 2015)  
+_Course: Machine Learning, Northwestern University, Evanston, IL_
+
+####[iOS App: Pitch Perfect](https://github.com/zhtiansweet/PitchPerfect) (April 2015)
+_Just for fun_
 
 ####[Networking Protocols Implementation](https://github.com/zhtiansweet/NetworkProtocol_EECS340) (January 2015 - March 2015)  
 _Course: Introduction to Computer Networking, Northwestern University, Evanston, IL_

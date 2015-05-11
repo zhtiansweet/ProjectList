@@ -3,8 +3,6 @@
 Email: tianzhang2014@u.northwestern.edu  
 
 ##PROJECTS
-####[iOS Virtual File System Upgrade](https://github.com/zhtiansweet/virtual_filesystem-ios) (April 2015 - present)
-_Northwestern University, Evanston, IL_
 
 ####[Decision Tree](https://github.com/zhtiansweet/decisionTreeC4.5) (May 2015)  
 _Course: Machine Learning, Northwestern University, Evanston, IL_

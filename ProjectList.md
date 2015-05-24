@@ -10,7 +10,7 @@ _Course: Machine Learning, Northwestern University, Evanston, IL_
 ####[iOS App: Pitch Perfect](https://github.com/zhtiansweet/PitchPerfect) (April 2015)
 _Just for fun!_
 
-####[Networking Protocols Implementation](https://github.com/zhtiansweet/NetworkProtocol_EECS340) (January 2015 - March 2015)  
+####[Networking Protocols Implementation](https://github.com/zhtiansweet/NetworkProtocol_EECS340) (January - March 2015)  
 _Course: Introduction to Computer Networking, Northwestern University, Evanston, IL_
 
 ####[3D Space Construction](https://github.com/zhtiansweet/3DSpace_EECS351) (February 2015)

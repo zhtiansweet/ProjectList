@@ -26,6 +26,3 @@ _Course: Computer Graphics, Northwestern University, Evanston, IL_
 
 ####[Data Structures Implementation](https://github.com/zhtiansweet/DataStructure_EECS214) (November 2014)
 _Course: Data Structures & Data Management, Northwestern University, Evanston, IL_
-
-####[Path Finding Smart Car](https://github.com/zhtiansweet/SmartCar) (September 2012)
-_Beijing University of Posts and Telecommunications, Beijing, China_

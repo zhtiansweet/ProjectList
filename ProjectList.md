@@ -3,6 +3,9 @@
 Email: tianzhang2014@u.northwestern.edu  
 
 ##PROJECTS
+####[Movie Rating Prediction](https://github.com/zhtiansweet/MoviePrediction) (June 2015)
+_Course: Machine Learning, Northwestern University, Evanston, IL_
+
 ####[Course Enrollment System](https://github.com/zhtiansweet/CourseEnrollment) (May 2015)
 _Course: Java Programming, Peking University, Coursera.com_
 

@@ -12,11 +12,11 @@ _Course: Java Programming, Peking University, Coursera.com_
 ####[Decision Tree](https://github.com/zhtiansweet/decisionTreeC4.5) (May 2015)  
 _Course: Machine Learning, Northwestern University, Evanston, IL_
 
-####[iOS App: Pitch Perfect](https://github.com/zhtiansweet/PitchPerfect) (April 2015)
-_Just for fun!_
-
 ####[Trajectory Data Processing](https://github.com/zhtiansweet/TrajectoryData/tree/master) (April 2015)
 _Paper: Warehousing Relatedness-Aware Semantic Trajectories, SSTD 2015_
+
+####[iOS App: Pitch Perfect](https://github.com/zhtiansweet/PitchPerfect) (April 2015)
+_Just for fun!_
 
 ####[Networking Protocols Implementation](https://github.com/zhtiansweet/NetworkProtocol_EECS340) (January - March 2015)  
 _Course: Computer Networking, Northwestern University, Evanston, IL_

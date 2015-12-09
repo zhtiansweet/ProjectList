@@ -2,7 +2,7 @@
 Email: tianzhang2014@u.northwestern.edu  
 
 ##PROJECTS
-####[Database Client for Academic System](https://github.com/zhtiansweet/Database-Client-for-Academic-System) (November 2015)
+####[Database Client of Academic System](https://github.com/zhtiansweet/Database-Client-of-Academic-System) (November 2015)
 _Course: Database Systems, Northwestern University, Evanston, IL_
 
 ####[Movie Rating Prediction](https://github.com/zhtiansweet/MoviePrediction) (June 2015)

@@ -22,6 +22,3 @@ _Course: Computer Networking, Northwestern University, Evanston, IL_
 
 ####[3D Space Construction](https://github.com/zhtiansweet/3DSpace_EECS351) (February 2015)
 _Course: Computer Graphics, Northwestern University, Evanston, IL_  
-
-####[Data Structures Implementation](https://github.com/zhtiansweet/DataStructure_EECS214) (November 2014)
-_Course: Data Structures & Data Management, Northwestern University, Evanston, IL_

@@ -1,5 +1,4 @@
 #Tian Zhang
-[**Blog**](http://zhtiansweet.github.io/) **(From April 2015)**   
 Email: tianzhang2014@u.northwestern.edu  
 
 ##PROJECTS
